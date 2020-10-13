@@ -1,12 +1,12 @@
 # _Hello-World_
 
-#### _{g}, {Date of current version}_
+#### _{Hello-world app}, {10/13/2020}_
 
 #### By _**{List of contributors}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{This is the simple webpage showing Hello World in different languages}_
 
 ## Setup/Installation Requirements
 
